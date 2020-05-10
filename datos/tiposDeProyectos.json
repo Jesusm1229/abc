@@ -1,0 +1,16 @@
+{
+	"Backend":[
+		"C++",
+		"Java",
+		"Phython",
+		"C#"
+	],
+	"Desarrollo Web":[
+		"Angular",
+		"React",
+		"Laravel"
+	],
+	"Bases de Datos":[
+		"SQL"
+	]
+}
